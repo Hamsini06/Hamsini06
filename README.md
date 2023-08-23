@@ -5,10 +5,11 @@
 My tech stack includes:
 - Full stack development
 - Data Science
+- Python
 - Front End
 - Back End
 - Machine learning
-- Python
+- SQL
 
 ### About Me
 
@@ -21,7 +22,7 @@ Some of my interests include:
 - :books: I love learning new languages and I'm currently learning Japanese
 - :headphones: Music is my passion and discovering different styles piques my interest. Heavy into hip-hip, rock, pop and rap music
 - :tv: I love investing time in psychological, mystery and thrilling series
-- :desktop_computer: Coding has always been my interest. I love challenging myself and discovering new things. Solve problems on LeetCode and Hackerrank
+- :desktop_computer: Coding has always been my interest. I love challenging myself and discovering new things. I solve problems on LeetCode and Hackerrank
 
 ### My languages and tools
 <div>
