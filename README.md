@@ -1,6 +1,6 @@
 ---
-
-### Hi there 👋 This is Hamsini. Welcome to my profile
+<h2 align = "left">Hi there 👋 This is Hamsini. Welcome to my profile</h2> 
+I am currently working as an associate software developer.
 
 My tech stack includes:
 - Full stack development
@@ -11,13 +11,6 @@ My tech stack includes:
 - Machine learning
 - SQL
 
-### About Me
-
-I am currently working as an associate software developer. Some of my activities involve:
-- SSMS (Sql Server): Working on Backend integrations
-- ASP .NET: Server side integrations for interfaces
-A ticketing system in followed wherein necessary enhancements and customisations are represented.
-
 Some of my interests include:
 - :books: I love learning new languages and I'm currently learning Japanese
 - :headphones: Music is my passion and discovering different styles piques my interest. Heavy into hip-hip, rock, pop and rap music
@@ -25,7 +18,7 @@ Some of my interests include:
 - :desktop_computer: Coding has always been my interest. I love challenging myself and discovering new things. I solve problems on LeetCode and Hackerrank
 
 ### My languages and tools
-<div>
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -42,6 +35,12 @@ Some of my interests include:
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### My Stats
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamsini06&theme=dark)](https://git.io/streak-stats)
+
+
 
 <!--
 **Hamsini06/Hamsini06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
