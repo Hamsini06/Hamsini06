@@ -1,5 +1,5 @@
 ---
-<h2 align = "left">Hi there 👋 This is Hamsini. Welcome to my profile</h2> 
+<h2 align = "left">Hi there 👋 This is Hamsini</h2> 
 I am currently working as an associate software developer.
 
 My tech stack includes:
