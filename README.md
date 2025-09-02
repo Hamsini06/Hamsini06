@@ -1,6 +1,6 @@
 ---
 <h2 align = "left">Hi there 👋 This is Hamsini</h2> 
-I am currently working as an associate software developer.
+I am currently working as a software developer.
 
 My tech stack includes:
 - Full stack development
