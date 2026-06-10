@@ -3,13 +3,13 @@
 I am currently working as a software developer.
 
 My tech stack includes:
-- Full stack development
-- Data Science
-- Python
-- Front End
-- Back End
-- Machine learning
-- SQL
+- Prgamming Languages - Python, C, Java
+- Databases - SQL, MongoDB
+- Data Science - Machine learning, LLM's, GenAI
+- Web Dev - Node, Express, JavaScript, TypeScript, React
+- Microservices
+- DSA
+- System Design
 
 Some of my interests include:
 - :books: I love learning new languages and I'm currently learning Japanese
